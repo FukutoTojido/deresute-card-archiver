@@ -29,6 +29,8 @@ bun install
 bun index.ts
 ```
 
+- The output will be in the `output` folder
+
 ## Resources
 - [https://starlight.kirara.ca](https://starlight.kirara.ca): API for Card Data
 - [mishiro-core](https://github.com/toyobayashi/mishiro-core): Download implementation reference
