@@ -1,4 +1,4 @@
-# cgss-super-project
+# deresute-card-archiver
 This is a small script that will pull all THE iDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE Mobile Game Card Data Assets Bundle (.unity3d) for archiving purpose.
 
 ## Installation
